@@ -1,2 +1,4 @@
 com/csvaddressbook/AddressBook.java
  com.csvaddressbook.AddressBook
+ com.csvaddressbook.Book
+ com.csvaddressbook.Book$Entry
